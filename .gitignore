@@ -55,3 +55,9 @@ Thumbs.db
 /TEMPLATE_STRUCTURAL_AUDIT.md
 /draft_pru_template_schema.json
 /templates/bdil_pru_v1/
+
+# Local project notes
+/PARSER_EXAMPLE_OUTPUT.md
+/TASK_3_DELIVERABLES.md
+/TASK_4_DELIVERABLES.md
+/VALIDATOR_GUIDE.md
