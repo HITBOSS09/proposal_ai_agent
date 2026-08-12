@@ -1,0 +1,7 @@
+pydantic>=2.0,<3
+python-dotenv>=1.0
+python-docx>=0.8.11,<1
+PyMuPDF>=1.24,<2
+pytest>=8.0
+qdrant-client>=1.9,<2
+requests>=2.31,<3

@@ -1,0 +1,57 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE files
+.vscode/
+.idea/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Environment variables
+.env
+.env.*
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Confidential / local BDIL assets
+/documents/
+/data/raw/proposals/
+/debug/
+/output/
+my_request.txt
+
+# Office temporary files
+.~lock.*
+
+# Local vector database
+/qdrant_storage/
+
+# Editor / OS temporary files
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Local architecture / template-derived audit artifacts
+/ARCHITECTURE_AUDIT.md
+/ARCHITECTURE_DEEP_AUDIT.md
+/FINAL_TEMPLATE_CERTIFICATION_READINESS_AUDIT.md
+/PROJECT_CODE_SNAPSHOT.md
+/TEMPLATE_SCHEMA_AUDIT.md
+/TEMPLATE_STRUCTURAL_AUDIT.md
+/draft_pru_template_schema.json
+/templates/bdil_pru_v1/
